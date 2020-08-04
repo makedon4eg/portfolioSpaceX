@@ -1,0 +1,43 @@
+body {
+  background-color: #010001;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+li {
+  list-style: none;
+
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1230px;
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 53px;
+
+}
+
+header ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+
+}
+
+
+header a {
+  text-decoration: none;
+  color: white;
+  margin: 0 10px;
+  font-size: 12px;
+  line-height: 14px;
+}
+
+nav.contacts a {
+  color: #808080;
+
+}
